@@ -18,10 +18,10 @@ theme = "mainroad"
   toc = false # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
-  mainSections = ["article"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["new_article", "article"] # Specify section pages to show on home page and the "Recent articles" widget # folder name under content directory ex: ["posts", "article"]
   dateformat = "2006-01-02" # Change the format of dates
-  mathjax = true # Enable MathJax
-  mathjaxPath = "https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" #"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjax = false # Enable MathJax
+  mathjaxPath = "https://static.arxiv.org/MathJax-2.7.3/MathJax.js" #"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX" #"TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   customCSS = ["css/custom.css"] # Include custom CSS files
@@ -53,7 +53,7 @@ theme = "mainroad"
   list = "left"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["categories", "taglist", "recent", "social", "languages"] #search
+  widgets = ["categories", "taglist", "recent", "social", "languages", "search"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -63,5 +63,4 @@ theme = "mainroad"
 [Params.widgets.search]
   url = "https://google.com/search"
   input.name = "sitesearch"
-  input.pre = "https://nebula0.github.io/"
-
+  input.pre = ""
