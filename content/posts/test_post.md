@@ -7,7 +7,6 @@ categories:
 tags:
 menu: main # Optional, add page to a menu. Options: main, side, footer
 ---
-
 ## What is this for
 A website containing papers related to Ken’s group research topics.
 
@@ -26,6 +25,11 @@ query_list = [
 ```
 
 ## To-do
-Currently, the math expression is still not working QQ.
-Hopeing this can be done in the near future.
+Currently, the search feature is still not working QQ.  
+Hopeing this can be done in the near future.   
+
+## (?)
+![image](/2022_10_29.jpg)
+
+
 
