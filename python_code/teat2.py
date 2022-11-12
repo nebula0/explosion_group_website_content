@@ -5,8 +5,10 @@ import logging
 
 
 now = str(time.ctime()).split(" ")
-time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[2] + " " + now[4]  + ")"
+time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[2] + " " + now[4] + ")"
 logging.basicConfig(level=logging.ERROR)
+
+
 
 def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day_down_limit: int):
     '''
@@ -40,25 +42,26 @@ def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day
         
         if ((year == year_limit) and month == month_limit) and (day_up_limit >= day >= day_down_limit) and (str(result.primary_category).split(".")[0] == "astro-ph"):
             logging.warning(result.title)
-            count += 1
+            
             fname = str(result.title) + ".md"
             fname = fname.replace(" ", "_")
             fname = fname.replace("/", "_")
             fname = fname.replace("\\", "_")
             fname = fname.replace("$", "_")
-
-            if not os.path.exists(f'./new_article/{query}'):
-                os.makedirs(f'./new_article/{query}')
             script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
-            rel_path = f"new_article/{query}/{fname}"
+            if not os.path.exists(f"article/{query}"):
+                os.makedirs(f"article/{query}")
+            
+            rel_path = f"article/{query}/{fname}"
             abs_file_path = os.path.join(script_dir, rel_path)
             title = str(result.title).replace("\\", "\\\\")
             title = title.replace("\"", "\\\"")
 
             with open(abs_file_path, "w") as f:
                 f.write(
-                    f"---\ntitle: \"{title}\"\ndate: \"{year}-{month}-{day}\"\ntype: article\ntags:\n  - \"arxiv\"\n  - \"{time_tag}\"\ncategories:\n  - {query}\n  - {year}(year)\n  - {month}(month)\ndraft: false\n---\n\n> First author: {result.authors[0]}\n\n {result.summary}\n\n---\n[arxiv link]({result.entry_id})\n\n[pdf link]({result.pdf_url})")
+                    f"---\ntitle: \"{title}\"\ndate: \"{year}-{month}-{day}\"\ntype: article\ntags:\n  - \"arxiv\"\ncategories:\n  - \"{time_tag}\"\n  - {query}\n  - {year}(year)\n  - {month}(month)\ndraft: false\n---\n\n> First author: {result.authors[0]}\n\n {result.summary}\n\n---\n[arxiv link]({result.entry_id})\n\n[pdf link]({result.pdf_url})")
                 f.close()
+            count += 1
         else:
             pass
 
@@ -69,41 +72,21 @@ def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day
 # paremeter
 query_list = [
     "cosmology", "early universe", "galaxies", 
-    "high-redshift", "intergalactic", "Population III", 
+    "high-redshift", "intergalactic medium", "Population III", 
     "supernovae", "radiative transfer", "nuclear reactions", 
-    "hydrodynamics", "AGN", 
+    "hydrodynamics", "Active galactic nucleus", "AGN", 
     "galaxy merger", "dwarf galaxy", 
-    "chemical evolution", "SMBH", "blackhole", 
-    "galactic bugle", "galactic disk", "chemical",
+    "chemical evolution", "SMBH", "blackhole physics", 
+    "galactic bugle", "galactic disk", "high redshift", 
     "globular cluster", "cluster simulation", "HII region simulation"
 ]
 
-
-'''
- "early universe"
- "Population III"
- "radiative transfer"
- "nuclear reactions", 
- "galaxy merger", "dwarf galaxy", 
-    "chemical evolution"
-    "galactic bugle", "galactic disk"
-    "globular cluster", "cluster simulation", "HII region simulation"
-'''
-query_list = [
-    "cosmology", "galaxies", "high-redshift", 
-    "intergalactic", "supernovae", "hydrodynamics", 
-    "AGN", "SMBH", "blackhole",
-    "chemical",
-    
-]
-
-
-
+query_list = ["early universe"]
 
 year_limit = 2022
-month_limit = 11
-day_up_limit = 11#28#21
-day_down_limit = 1#22#14
+month_limit = 10
+day_up_limit = 28#28#21
+day_down_limit = 22#22#14
 NOW = time.ctime()
 for query in query_list:
     #l = get_id(i)

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "05a66dda5062e99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "757911321ab4aa03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cbaf1952d5fd73e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0012ffab92890455",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f3ba9d6ee0a819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11fbed22326ae9cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89b6778e2723eb22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "The Impact of Beam Variations on P",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0abc95448c8d6f9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "084f77a9f5366c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c03f1c3bcc7dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76e040f8675c75e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cdcbc78a1f1cd59a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed55fb62ab11346f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aaaf753dee0f336a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7cbaf1952d5fd73e",
+  "lastOpenFiles": [
+    "The MillenniumTNG Project The hydrodynamical full physics simulation and a first look at its galaxy clusters.md",
+    "new_article/SMBH/The_Circumgalactic_Medium_of_Milky_Way-like_Galaxies_in_the_TNG50_Simulation_--_I:_Halo_Gas_Properties_and_the_Role_of_SMBH_Feedback.md",
+    "new_article/radiative transfer/The_effects_of_Time-Variable_Absorption_due_to_Gamma-Ray_Bursts_In_Active_Galactic_Nuclei_Accretion_Disks.md",
+    "new_article/radiative transfer/Sub-stellar_engulfment_by_a_main_sequence_star:_where_is_the_lithium?.md",
+    "new_article/radiative transfer/Unstructured_Grid_Dynamical_Modeling_of_Planetary_Atmospheres_using_planetMPAS:_The_Influence_of_the_Rigid_Lid,_Computational_Efficiency,_and_Examples_of_Martian_and_Jovian_Application.md",
+    "new_article/radiative transfer/The_Geometry_of_the_G29-38_White_Dwarf_Dust_Disk_from_Radiative_Transfer_Modeling.md",
+    "new_article/radiative transfer/Korg:_a_modern_1D_LTE_spectral_synthesis_package.md",
+    "new_article/radiative transfer/Circumbinary_Accretion:_From_Binary_Stars_to_Massive_Binary_Black_Holes.md",
+    "new_article/globular cluster/The_Origin_of_the_Observed_Lyman_alpha_EW_Distribution_of_Dwarf_Galaxies_at_z~2.md",
+    "new_article/globular cluster/SPYGLASS_III:_The_Fornax-Horologium_Association_and_its_Traceback_History_within_the_Austral_Complex.md"
+  ]
+}
