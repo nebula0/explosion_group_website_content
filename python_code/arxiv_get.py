@@ -102,8 +102,8 @@ query_list = [
 
 year_limit = 2022
 month_limit = 11
-day_up_limit = 11#28#21
-day_down_limit = 1#22#14
+day_up_limit = 19#11#28#21
+day_down_limit = 12#1#22#14
 NOW = time.ctime()
 for query in query_list:
     #l = get_id(i)

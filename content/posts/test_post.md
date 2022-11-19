@@ -29,7 +29,7 @@ Currently, the search feature is still not working QQ.
 Hopeing this can be done in the near future.   
 
 ## (?)
-![image](/2022_10_29.jpg)
+
 
 
 

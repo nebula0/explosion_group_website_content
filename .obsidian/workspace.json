@@ -8,7 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f91de5b8803aaf49",
+            "id": "9eda1b693891da4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2211.07540.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f093173c1af78944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2208.14435.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "068374ea67299a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2211.07496.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "69a15daa6e9b5d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2211.09583.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "90b74d348bccb6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2211.07877.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6212c01d03f412bf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,7 +76,7 @@
             }
           },
           {
-            "id": "2e043743ea9c00b4",
+            "id": "7dabf5643b7c9edd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -24,63 +84,55 @@
             }
           },
           {
-            "id": "1ed7b1e37a0cab1c",
+            "id": "d884825c7b3f2a78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2211.09139.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "9cf40eb8242f8298",
+            "id": "2b5736b5d96cb471",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2211.07979.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "a379dbb8ab952889",
+            "id": "d27ea7720fb47b5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2209.02726.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "beba0bcf85fdc872",
+            "id": "320117d81f970f20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "90a4d500b2331cb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d10cde8969339cec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9398cca15cff9b84",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/article/_Hubble~Space~Telescope__Reveals_Spectacular_Light_Echoes_Associated_with_the_Stripped-envelope_Supernova_2016adj_in_the_Iconic_Dust_Lane_of_Centaurus_A.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2211.07699",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +178,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,17 +246,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9398cca15cff9b84",
+  "active": "7dabf5643b7c9edd",
   "lastOpenFiles": [
-    "manual_add_article/arXiv.2211.04485.md",
-    "manual_add_article/arXiv.2112.01265.md",
-    "manual_add_article/arXiv.2211.00650.md",
-    "manual_add_article/arXiv.2209.03019.md",
-    "manual_add_article/arXiv.2211.00344.md",
-    "manual_add_article/arXiv.2211.02671.md",
-    "manual_add_article/arXiv.2211.01384.md",
-    "manual_add_article/arXiv.2211.00651.md",
-    "manual_add_article/arXiv.2211.02711.md",
-    "manual_add_article/arXiv.2211.02038.md"
+    "content/new_article/arXiv.2211.07699.md",
+    "content/new_article/arXiv.2207.11263.md",
+    "content/new_article/arXiv.2211.07877.md",
+    "content/new_article/arXiv.2211.09583.md",
+    "content/new_article/arXiv.2211.07496.md",
+    "content/new_article/arXiv.2211.09139.md",
+    "content/new_article/arXiv.2211.07979.md",
+    "content/new_article/arXiv.2209.02726.md",
+    "content/new_article/arXiv.2208.14435.md",
+    "content/new_article/arXiv.2211.07540.md"
   ]
 }
