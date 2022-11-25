@@ -102,12 +102,15 @@ query_list = [
 
 year_limit = 2022
 month_limit = 11
-day_up_limit = 19#11#28#21
-day_down_limit = 12#1#22#14
+day_up_limit = 25#19#11#28#21
+day_down_limit = 20#12#1#22#14
 NOW = time.ctime()
 for query in query_list:
     #l = get_id(i)
     get_md(query, year_limit, month_limit, day_up_limit, day_down_limit)
 print(f"For this update at {NOW}")
+
+# ind ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
+
     
 

@@ -4,135 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "c1fc3b00e7e88e76",
+        "id": "6d9272d486dc482a",
         "type": "tabs",
         "children": [
           {
-            "id": "9eda1b693891da4a",
+            "id": "b820c30550f4c913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2211.07540.md",
+                "file": "arXiv.2211.13166.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f093173c1af78944",
+            "id": "f4a60a4692777c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2208.14435.md",
+                "file": "arXiv.2211.12970.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "068374ea67299a66",
+            "id": "0e0d3a977ec28d59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2211.07496.md",
+                "file": "arXiv.2211.12547.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "69a15daa6e9b5d66",
+            "id": "4d898e5b9b17f40f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2211.09583.md",
+                "file": "arXiv.2211.11991.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "90b74d348bccb6cc",
+            "id": "9eb3e70083b929b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2211.07877.md",
+                "file": "arXiv.2211.11788.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6212c01d03f412bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7dabf5643b7c9edd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d884825c7b3f2a78",
+            "id": "ab8cf8e3921ffcaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2211.09139.md",
+                "file": "arXiv.2211.13179.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2b5736b5d96cb471",
+            "id": "ca0cf73c9c7c9bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2211.07979.md",
+                "file": "arXiv.2202.02132.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d27ea7720fb47b5e",
+            "id": "ed32bd0067bd328c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/new_article/arXiv.2209.02726.md",
+                "file": "arXiv.2211.12529.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "320117d81f970f20",
+            "id": "635dfcd2b643dd40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/_Hubble~Space~Telescope__Reveals_Spectacular_Light_Echoes_Associated_with_the_Stripped-envelope_Supernova_2016adj_in_the_Iconic_Dust_Lane_of_Centaurus_A.md",
+                "file": "arXiv.2211.11301.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d603fc675aefb0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2211.11299.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bcf513685a642e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2211.12884.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05f8f3fe6bb587cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2211.12684.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -178,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "arXiv.2211.12684.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "arXiv.2211.12684.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "arXiv.2211.12684.md"
+              }
             }
           }
         ]
@@ -246,17 +269,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dabf5643b7c9edd",
+  "active": "05f8f3fe6bb587cf",
   "lastOpenFiles": [
-    "content/new_article/arXiv.2211.07699.md",
-    "content/new_article/arXiv.2207.11263.md",
-    "content/new_article/arXiv.2211.07877.md",
-    "content/new_article/arXiv.2211.09583.md",
-    "content/new_article/arXiv.2211.07496.md",
-    "content/new_article/arXiv.2211.09139.md",
-    "content/new_article/arXiv.2211.07979.md",
-    "content/new_article/arXiv.2209.02726.md",
-    "content/new_article/arXiv.2208.14435.md",
-    "content/new_article/arXiv.2211.07540.md"
+    "arXiv.2211.12884.md",
+    "arXiv.2211.12684.md",
+    "arXiv.2211.11299.md",
+    "arXiv.2211.11301.md",
+    "arXiv.2211.13166.md",
+    "arXiv.2211.12970.md",
+    "arXiv.2211.12547.md",
+    "arXiv.2211.11991.md",
+    "arXiv.2211.11788.md",
+    "arXiv.2211.13179.md"
   ]
 }
