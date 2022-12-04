@@ -5,7 +5,7 @@ import logging
 
 
 now = str(time.ctime()).split(" ")
-time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[2] + " " + now[4]  + ")"
+time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[3] + " " + now[5]  + ")"
 logging.basicConfig(level=logging.ERROR)
 
 def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day_down_limit: int):
@@ -84,10 +84,14 @@ query_list = [
  "Population III"
  "radiative transfer"
  "nuclear reactions", 
- "galaxy merger", "dwarf galaxy", 
-    "chemical evolution"
-    "galactic bugle", "galactic disk"
-    "globular cluster", "cluster simulation", "HII region simulation"
+ "galaxy merger", 
+ "dwarf galaxy", 
+ "chemical evolution"
+ "galactic bugle", 
+ "galactic disk"
+ "globular cluster", 
+ "cluster simulation", 
+ "HII region simulation"
 '''
 query_list = [
     "cosmology", "galaxies", "high-redshift", 
@@ -101,16 +105,15 @@ query_list = [
 
 
 year_limit = 2022
-month_limit = 11
-day_up_limit = 25#19#11#28#21
-day_down_limit = 20#12#1#22#14
+month_limit = 12#11
+day_up_limit = 3#25#19#11#28#21
+day_down_limit = 1#12#1#22#14
 NOW = time.ctime()
 for query in query_list:
     #l = get_id(i)
     get_md(query, year_limit, month_limit, day_up_limit, day_down_limit)
 print(f"For this update at {NOW}")
 
-# ind ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
+# find ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
 
     
-
