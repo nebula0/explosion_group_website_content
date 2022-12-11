@@ -120,4 +120,6 @@ print(f"For this update at {NOW}")
 # sed -i 's/"most recent update (Sun Dec 4 2022)"/""/g' `ls`
 # find ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
 
+# note: l copy newArtile to article, so next week no need co copy, only nedd to detete them
+# in newArticle and replace tag in article.
     
