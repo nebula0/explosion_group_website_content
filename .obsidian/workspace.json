@@ -19,8 +19,12 @@
             "id": "87799236812e3e00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -149,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "galaxies could be only measured reliably as far back as redshift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md"
+              }
             }
           }
         ]
@@ -233,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87799236812e3e00",
+  "active": "f53e9ebd49be8610",
   "lastOpenFiles": [
+    "content/article/Interpreting_ALMA_non-detections_of_JWST_super-early_galaxies.md",
+    "content/article/Emission-line_properties_of_IllustrisTNG_galaxies:_from_local_diagnostic_diagrams_to_high-redshift_predictions_for_JWST.md",
+    "content/article/CONCERTO:_Simulating_the_CO,_[CII],_and_[CI]_line_emission_of_galaxies_in_a_117___rm_deg^2__field_and_the_impact_of_field-to-field_variance.md",
     "content/article/test.md",
     "content/newArticle/test.md",
     "content/new_article/arXiv.2212.02535.md",
     "content/new_article/arXiv.2212.00318.md",
     "content/new_article/arXiv.2212.03648.md",
     "content/new_article/arXiv.2208.10789.md",
-    "content/new_article/Untitled.md",
-    "content/new_article/arXiv.2205.09227.md",
-    "content/new_article/arXiv.2212.03252.md",
-    "content/new_article/arXiv.2212.03430.md"
+    "content/new_article/Untitled.md"
   ]
 }

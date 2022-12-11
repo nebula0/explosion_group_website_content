@@ -23,8 +23,8 @@ post-asymptotic-giant-branch (PAGB) stars, accreting black holes (BHs) and, for
 the first time, fast radiative shocks. The optical emission-line properties of
 simulated galaxies dominated by different ionizing sources are largely
 consistent with those expected from classical diagnostic diagrams and reflect
-the observed increase in [OIII]/H$\beta$ at fixed [NII]/H$\alpha$ and the
-evolution of the H$\alpha$, [OIII]$\lambda5007$ and [OII]$\lambda3727$
+the observed increase in OIII/H$\beta$ at fixed NII/H$\alpha$ and the
+evolution of the H$\alpha$, OIII$\lambda5007$ and OII$\lambda3727$
 luminosity functions from z$\approx$0 to z$\sim$2. At higher redshift, we find
 that the emission-line galaxy population is dominated by star-forming and
 active galaxies, with negligible fractions of shock- and PAGB-dominated
@@ -34,10 +34,10 @@ evolution of several optical- and UV-line luminosity functions from z=4 to z=7,
 and the number of galaxies expected to be detectable per field of view in deep,
 medium-resolution spectroscopic observations with the NIRSpec instrument on
 board the James Webb Space Telescope. We find that 2-hour-long exposures are
-sufficient to achieve unbiased censuses of H$\alpha$ and [OIII]$\lambda5007$
+sufficient to achieve unbiased censuses of H$\alpha$ and OIII$\lambda5007$
 emitters, while at least 5 hours are required for H$\beta$, and even 10 hours
-will detect only progressively smaller fractions of [OII]$\lambda3727$,
-OIII]$\lambda1663$, CIII]$\lambda1908$, CIV$\lambda1550$, [NII]$\lambda6584$,
+will detect only progressively smaller fractions of OII$\lambda3727$,
+OIII]$\lambda1663$, CIII]$\lambda1908$, CIV$\lambda1550$, NII$\lambda6584$,
 SiIII]$\lambda1888$ and HeII$\lambda1640$ emitters, especially in the presence
 of dust.
 

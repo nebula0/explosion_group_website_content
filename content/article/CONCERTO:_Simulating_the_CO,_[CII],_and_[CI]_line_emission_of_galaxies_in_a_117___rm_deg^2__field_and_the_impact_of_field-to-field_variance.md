@@ -1,5 +1,5 @@
 ---
-title: "CONCERTO: Simulating the CO, [CII], and [CI] line emission of galaxies in a 117 $\\rm deg^2$ field and the impact of field-to-field variance"
+title: "CONCERTO: Simulating the CO, CII, and CI line emission of galaxies in a 117 $\\rm deg^2$ field and the impact of field-to-field variance"
 date: "2022-12-5"
 type: article
 tags:
@@ -18,7 +18,7 @@ draft: false
 new promising probes for the cold gas content and star formation rate of
 galaxies across cosmic time. However, both of these two measurements suffer
 from field-to-field variance. We study the effect of field-to-field variance on
-the predicted CO and [CII] power spectra from future LIM experiments such as
+the predicted CO and CII power spectra from future LIM experiments such as
 CONCERTO, as well as on the line luminosity functions (LFs) and the cosmic
 molecular gas mass density that are currently derived from spectral line scans.
 We combined a 117 $\rm deg^2$ dark matter lightcone from the Uchuu cosmological
@@ -32,7 +32,7 @@ the impact of field-to-field variance on the cosmic molecular gas density can
 be as high as 40% for the 4.6 arcmin$^2$ field, but drops below 10% for areas
 larger than 0.2 deg$^2$. However, at $z>3$ the variance decreases more slowly
 with survey size and for example drops below 10% for 1 deg$^2$ fields. Finally,
-we find that the CO and [CII] LIM power spectra can vary by up to 50% in $\rm 1
+we find that the CO and CII LIM power spectra can vary by up to 50% in $\rm 1
 deg^2$ fields. This limits the accuracy of the constraints provided by the
 first 1 deg$^2$ surveys. The level of the shot noise power is always dominated
 by the sources that are just below the detection thresholds. We provide an

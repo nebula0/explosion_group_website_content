@@ -14,10 +14,10 @@ draft: false
 
 > First author: M. Kohandel
 
- Recent attempts to detect [OIII] 88$\mu$m emission from super-early ($z>10$)
+ Recent attempts to detect OIII 88$\mu$m emission from super-early ($z>10$)
 galaxy candidates observed by JWST have been unsuccessful. By using zoom-in
 simulations, we show that these galaxies are faint, and mostly fall below the
-local metal-poor $\rm [OIII]-SFR$ relation as a result of their low ionization
+local metal-poor $[OIII]-SFR$ relation as a result of their low ionization
 parameter, $U_{\rm ion}\lesssim 10^{-3}$. Such low $U_{\rm ion}$ values are
 found in galaxies that are in an early assembly stage, and whose stars are
 still embedded in high-density natal clouds. However, the most luminous galaxy
