@@ -4,8 +4,15 @@ import time
 import logging
 
 
+
+# set tag for md file
+# `now` length will be different depend on day like below:
+# ['Sun', 'Dec', '', '4', '09:44:35', '2022']
+# ['Sun', 'Dec', '11', '01:29:52', '2022']
+# so I use [length-n] to get correct indexing value.
 now = str(time.ctime()).split(" ")
-time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[3] + " " + now[5]  + ")"
+length = len(now)
+time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[length-3] + " " + now[length-1]  + ")"
 logging.basicConfig(level=logging.ERROR)
 
 def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day_down_limit: int):
@@ -97,23 +104,20 @@ query_list = [
     "cosmology", "galaxies", "high-redshift", 
     "intergalactic", "supernovae", "hydrodynamics", 
     "AGN", "SMBH", "blackhole",
-    "chemical",
-    
+    "chemical"   
 ]
-
-
-
 
 year_limit = 2022
 month_limit = 12#11
-day_up_limit = 3#25#19#11#28#21
-day_down_limit = 1#12#1#22#14
+day_up_limit = 10#3#25#19#11#28#21
+day_down_limit = 4#1#12#1#22#14
 NOW = time.ctime()
 for query in query_list:
     #l = get_id(i)
     get_md(query, year_limit, month_limit, day_up_limit, day_down_limit)
 print(f"For this update at {NOW}")
 
+# sed -i 's/"most recent update (Sun Dec 4 2022)"/""/g' `ls`
 # find ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
 
     

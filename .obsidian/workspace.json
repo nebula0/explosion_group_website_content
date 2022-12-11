@@ -4,155 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9272d486dc482a",
+        "id": "cfcb6cb1e22b9f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "b820c30550f4c913",
+            "id": "f36d8248c752ed21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.13166.md",
+                "file": "content/new_article/The_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_N-body_simulations_with_the_Galaxy_Replacement_Technique.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f4a60a4692777c2a",
+            "id": "87799236812e3e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.12970.md",
+                "file": "content/new_article/arXiv.2212.03878.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "0e0d3a977ec28d59",
+            "id": "9bbe8df0d3cfe2c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.12547.md",
+                "file": "content/new_article/arXiv.2212.02535.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4d898e5b9b17f40f",
+            "id": "3212dff14aa4ac1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.11991.md",
+                "file": "content/new_article/arXiv.2212.04476.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9eb3e70083b929b6",
+            "id": "713e3573dd4b6c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.11788.md",
+                "file": "content/new_article/arXiv.2212.03648.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ab8cf8e3921ffcaa",
+            "id": "d4d8f288ad31717c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.13179.md",
+                "file": "content/new_article/arXiv.2212.00318.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ca0cf73c9c7c9bd9",
+            "id": "e4c911376cf4be77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2202.02132.md",
+                "file": "content/new_article/arXiv.2212.02529.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ed32bd0067bd328c",
+            "id": "274781dd8e3f3464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.12529.md",
+                "file": "content/new_article/arXiv.2212.04151.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "635dfcd2b643dd40",
+            "id": "e4c067ac3cb331c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.11301.md",
+                "file": "content/new_article/arXiv.2212.03478.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d603fc675aefb0dc",
+            "id": "2aacb98fe71e72e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.11299.md",
+                "file": "content/new_article/arXiv.2212.03430.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "bcf513685a642e46",
+            "id": "6ea0306b15b7cf6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.12884.md",
+                "file": "content/new_article/arXiv.2212.03252.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "05f8f3fe6bb587cf",
+            "id": "c59e69dbdeefc792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2211.12684.md",
+                "file": "content/new_article/arXiv.2205.09227.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "619a16d08f74ddfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2212.03648.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "100dc52b9825003f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/new_article/arXiv.2208.10789.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2211.07699",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arXiv.2211.12684.md",
+                "file": "content/new_article/arXiv.2212.03878.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arXiv.2211.12684.md",
+                "file": "content/new_article/arXiv.2212.03878.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arXiv.2211.12684.md"
+                "file": "content/new_article/arXiv.2212.03878.md"
               }
             }
           }
@@ -269,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05f8f3fe6bb587cf",
+  "active": "87799236812e3e00",
   "lastOpenFiles": [
-    "arXiv.2211.12884.md",
-    "arXiv.2211.12684.md",
-    "arXiv.2211.11299.md",
-    "arXiv.2211.11301.md",
-    "arXiv.2211.13166.md",
-    "arXiv.2211.12970.md",
-    "arXiv.2211.12547.md",
-    "arXiv.2211.11991.md",
-    "arXiv.2211.11788.md",
-    "arXiv.2211.13179.md"
+    "content/new_article/arXiv.2212.02535.md",
+    "content/new_article/arXiv.2212.00318.md",
+    "content/new_article/arXiv.2212.03648.md",
+    "content/new_article/arXiv.2208.10789.md",
+    "content/new_article/Untitled.md",
+    "content/new_article/arXiv.2205.09227.md",
+    "content/new_article/arXiv.2212.03252.md",
+    "content/new_article/arXiv.2212.03430.md",
+    "content/new_article/arXiv.2212.03478.md",
+    "content/new_article/arXiv.2212.04151.md"
   ]
 }

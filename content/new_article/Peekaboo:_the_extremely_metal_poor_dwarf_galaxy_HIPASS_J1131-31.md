@@ -1,0 +1,32 @@
+---
+title: "Peekaboo: the extremely metal poor dwarf galaxy HIPASS J1131-31"
+date: "2022-12-7"
+type: article
+tags:
+  - "arxiv"
+  - "most recent update (Sun Dec 11 2022)"
+categories:
+  - galaxies
+  - 2022(year)
+  - 12(month)
+draft: false
+---
+
+> First author: I. D. Karachentsev
+
+ The dwarf irregular galaxy HIPASS J1131-31 was discovered as a source of HI
+emission at low redshift in such close proximity of a bright star that we call
+it Peekaboo. The galaxy resolves into stars in images with Hubble Space
+Telescope, leading to a distance estimate of 6.8+-0.7 Mpc. Spectral optical
+observations with the Southern African Large Telescope reveal HIPASS J1131-31
+to be one of the most extremely metal-poor galaxies known with the gas-phase
+oxygen abundance 12+log(O/H) = 6.99+-0.16 dex via the direct [OIII] 4363 line
+method and 6.87+-0.07 dex from the two strong line empirical methods. The red
+giant branch of the system is tenuous compared with the prominence of the
+features of young populations in the color-magnitude diagram, inviting
+speculation that star formation in the galaxy only began in the last few Gyr.
+
+---
+[arxiv link](http://arxiv.org/abs/2212.03478v1)
+
+[pdf link](http://arxiv.org/pdf/2212.03478v1)

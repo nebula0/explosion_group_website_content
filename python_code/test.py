@@ -4,13 +4,14 @@ import os
 import time
 
 now = str(time.ctime()).split(" ")
-time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[3] + " " + now[5]  + ")"
+length = len(now)
+time_tag = "most recent update (" + now[0] + " " + now[1] + " " + now[length-3] + " " + now[length-1]  + ")"
+
+
 print(time_tag)
-
-
-print(now)
 '''
 ['Sun', 'Dec', '', '4', '09:44:35', '2022']
-
+['Sun', 'Dec', '11', '01:29:52', '2022']
+Sun Dec 11 01:29:52 2022
 '''
 print(time.ctime())
