@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfcb6cb1e22b9f4c",
+        "id": "9369df427eff13e0",
         "type": "tabs",
         "children": [
           {
-            "id": "f36d8248c752ed21",
+            "id": "1d54ccfdb8ff6ef1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,115 +16,187 @@
             }
           },
           {
-            "id": "87799236812e3e00",
+            "id": "e7cd4d774358293a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md",
+                "file": "arXiv.2210.05680.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9bbe8df0d3cfe2c7",
+            "id": "6ad96e13129cff45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.08584.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "3212dff14aa4ac1e",
+            "id": "357b34874eb2b031",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.07342.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "713e3573dd4b6c8f",
+            "id": "c84c8b12b9f83df2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.07022.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "d4d8f288ad31717c",
+            "id": "45317b1b0af6144f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.08194.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "e4c911376cf4be77",
+            "id": "a1f5fe62fa0d4756",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.07519.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "274781dd8e3f3464",
+            "id": "d251b2549c925589",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.07441.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "e4c067ac3cb331c6",
+            "id": "167b7b2fb5aaee78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.06850.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "2aacb98fe71e72e7",
+            "id": "9d3e188dd193d7dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.06203.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "6ea0306b15b7cf6b",
+            "id": "41f7297e4b6ce6c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.04693.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "c59e69dbdeefc792",
+            "id": "c5db6838c00bcfbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2210.06731.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "619a16d08f74ddfa",
+            "id": "9e5d5da45f0019a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.07675.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "100dc52b9825003f",
+            "id": "c4ecd1290fe7521f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2212.06847.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6cb67c29b23fe9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arXiv.2210.12336.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8681072b865db6b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -153,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "galaxies could be only measured reliably as far back as redshift",
+                "query": "CI and CO in Nearby Spiral Galaxies -- I. Line Ratio and Abundance Variations at ~ 200 pc Scales ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md",
+                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md",
+                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/article/A_fundamental_plane_of_galaxy_assembly_and_chemical_enrichment_within_the_first_700_Myr_after_the_Big_Bang.md"
+                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md"
               }
             }
           }
@@ -242,17 +314,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f53e9ebd49be8610",
+  "active": "8681072b865db6b3",
   "lastOpenFiles": [
-    "content/article/Interpreting_ALMA_non-detections_of_JWST_super-early_galaxies.md",
-    "content/article/Emission-line_properties_of_IllustrisTNG_galaxies:_from_local_diagnostic_diagrams_to_high-redshift_predictions_for_JWST.md",
-    "content/article/CONCERTO:_Simulating_the_CO,_[CII],_and_[CI]_line_emission_of_galaxies_in_a_117___rm_deg^2__field_and_the_impact_of_field-to-field_variance.md",
-    "content/article/test.md",
-    "content/newArticle/test.md",
-    "content/new_article/arXiv.2212.02535.md",
-    "content/new_article/arXiv.2212.00318.md",
-    "content/new_article/arXiv.2212.03648.md",
-    "content/new_article/arXiv.2208.10789.md",
-    "content/new_article/Untitled.md"
+    "content/article/A_population_of_faint,_old,_and_massive_quiescent_galaxies_at_3_<_z_<_4_revealed_by_JWST_NIRSpec_Spectroscopy.md",
+    "content/article/A_Photometric_Survey_of_Globular_Cluster_Systems_in_Brightest_Cluster_Galaxies.md",
+    "content/article/The_gas_and_stellar_content_of_a_metal-poor_galaxy_at__z=8.496__revealed_by_JWST_and_ALMA.md",
+    "themes/hugo-theme-flat/exampleSite/content/essays/What-Is-Hugo.md",
+    "content/article/The_miniJPAS_survey:_stellar_atmospheric_parameters_from_56_optical_filters.md",
+    "content/article/The_ALPINE-ALMA_[CII]_survey:_double_stellar_population_and_AGN_activity_in_a_galaxy_at__z_sim5.5_.md",
+    "content/article/Properties_of_Type_Iax_Supernova_2019muj_in_the_Late_Phase:_Existence,_Nature_and_Origin_of_the_Iron-rich_Dense_Core.md",
+    "content/article/JWST_and_ALMA_Multiple-Line_Study_in_and_around_a_Galaxy_at__z=8.496_:_Optical_to_FIR_Line_Ratios_and_the_Onset_of_an_Outflow_Promoting_Ionizing_Photon_Escape.md",
+    "themes/mainroad/exampleSite/content/docs/faq.md",
+    "themes/fuji/exampleSite/content/post/emoji-support.md"
   ]
 }

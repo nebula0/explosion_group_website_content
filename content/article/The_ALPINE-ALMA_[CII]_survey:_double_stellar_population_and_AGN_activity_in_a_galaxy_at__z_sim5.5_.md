@@ -1,5 +1,5 @@
 ---
-title: "The ALPINE-ALMA [CII] survey: double stellar population and AGN activity in a galaxy at $z\\sim5.5$"
+title: "The ALPINE-ALMA $[CII]$ survey: double stellar population and AGN activity in a galaxy at $z\\sim5.5$"
 date: "2022-11-30"
 type: article
 tags:
@@ -14,7 +14,7 @@ draft: false
 
 > First author: L. Barchiesi
 
- GDS J033218.92-275302.7 (here GS-14) is a $z\sim5.5$ galaxy detected in [CII]
+ GDS J033218.92-275302.7 (here GS-14) is a $z\sim5.5$ galaxy detected in $[CII]$
 as part of the ALPINE survey with unusual UV spectral features that have been
 interpreted as signatures of either a double stellar population or of an active
 galactic nucleus (AGN). We exploited the multi-wavelength coverage of GS-14 to

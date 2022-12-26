@@ -22,9 +22,9 @@ photospheric spectra over several 100 days and the luminosity decline is very
 slow. In the present work, we study the late-time spectra of SN Iax 2019muj
 including a newly-presented spectrum at ~500 days. The spectrum is still
 dominated by allowed transitions but with lower ionization state, with possible
-detection of [O I]6300, 6363. By comprehensively examining the spectral
+detection of $[O I]$6300, 6363. By comprehensively examining the spectral
 formation processes of allowed transitions (Fe II, Fe I, and the Ca II NIR
-triplet) and forbidden transitions ([Ca II]7292, 7324 and the [O I]), we
+triplet) and forbidden transitions ($[Ca II]$7292, 7324 and the $[O I]$), we
 quantitatively constrain the nature of the innermost region and find that it is
 distinct from the outer ejecta; the mass of the innermost component is ~0.03
 Msun dominated by Fe (which can be initially 56Ni), expanding with the velocity

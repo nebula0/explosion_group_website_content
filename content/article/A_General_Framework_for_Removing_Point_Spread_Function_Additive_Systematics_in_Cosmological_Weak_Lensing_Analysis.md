@@ -4,7 +4,7 @@ date: "2022-12-6"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Sun Dec 11 2022)"
+  - ""
 categories:
   - cosmology
   - 2022(year)

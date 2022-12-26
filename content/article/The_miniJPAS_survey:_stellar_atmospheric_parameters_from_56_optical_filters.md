@@ -29,8 +29,7 @@ J0378-r, J0390-r, uJPAS-r, show the strongest metallicity dependence, around
 0.25 mag/dex. The sensitivities decrease to about 0.1 mag/dex for the J0400-r,
 J0410-r, and J0420-r colours. The locus fitting residuals show peaks at the
 J0390, J0430, J0510, and J0520 filters, suggesting that individual elemental
-abundances such as [Ca/Fe], [C/Fe], and [Mg/Fe] can also be determined from the
-J-PAS photometry. Via stellar loci, we have achieved a typical metallicity
+abundances such as $[Ca/Fe]$, $[C/Fe$]$, and $[Mg/Fe]$ can also be determined from the J-PAS photometry. Via stellar loci, we have achieved a typical metallicity
 precision of 0.1 dex. The miniJPAS filters also demonstrate strong potential in
 discriminating dwarfs and giants, particularly the J0520 and J0510 filters. Our
 results demonstrate the power of the J-PAS filter system in stellar parameter

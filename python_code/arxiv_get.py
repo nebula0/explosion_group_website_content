@@ -45,7 +45,8 @@ def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day
         day = int(ptime[2].split(" ")[0])
         
         
-        if ((year == year_limit) and month == month_limit) and (day_up_limit >= day >= day_down_limit) and (str(result.primary_category).split(".")[0] == "astro-ph"):
+        if ((year == year_limit) and month == month_limit) and (day_up_limit >= day >= day_down_limit) and \
+            (str(result.primary_category).split(".")[0] == "astro-ph"):
             logging.warning(result.title)
             count += 1
             fname = str(result.title) + ".md"
@@ -109,17 +110,23 @@ query_list = [
 
 year_limit = 2022
 month_limit = 12#11
-day_up_limit = 10#3#25#19#11#28#21
-day_down_limit = 4#1#12#1#22#14
+day_up_limit = 26#18#10#3#25#19#11#28#21
+day_down_limit = 19#10#4#1#12#1#22#14
 NOW = time.ctime()
 for query in query_list:
-    #l = get_id(i)
     get_md(query, year_limit, month_limit, day_up_limit, day_down_limit)
 print(f"For this update at {NOW}")
+
+
+
+
+
 
 # sed -i 's/"most recent update (Sun Dec 4 2022)"/""/g' `ls`
 # find ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
 
 # note: l copy newArtile to article, so next week no need co copy, only nedd to detete them
 # in newArticle and replace tag in article.
+
+
     

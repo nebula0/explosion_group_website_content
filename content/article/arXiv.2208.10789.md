@@ -4,7 +4,7 @@ date: "2022-12-7"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Sun Dec 11 2022)"
+  - ""
 categories:
   - Population III
   - 2022(year)
