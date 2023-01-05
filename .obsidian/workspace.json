@@ -4,199 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "9369df427eff13e0",
+        "id": "213cf66a4b305029",
         "type": "tabs",
         "children": [
           {
-            "id": "1d54ccfdb8ff6ef1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7cd4d774358293a",
+            "id": "e7045a69e2d45580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2210.05680.md",
+                "file": "content/article/A_Bayesian_Neural_Network_Approach_to_identify_Stars_and_AGNs_observed_by_XMM_Newton.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6ad96e13129cff45",
+            "id": "fa2575589fb98ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2212.08584.md",
+                "file": "content/article/arXiv.2212.13920.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "357b34874eb2b031",
+            "id": "e7993bcb2210f838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2212.07342.md",
+                "file": "content/article/arXiv.2301.01317.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c84c8b12b9f83df2",
+            "id": "4293dd923b9a5557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2212.07022.md",
+                "file": "content/article/arXiv.2212.14057.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "45317b1b0af6144f",
+            "id": "cb12db2f28ced9b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2212.08194.md",
+                "file": "content/article/arXiv.2211.14349.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a1f5fe62fa0d4756",
+            "id": "3ef9475bb9cb4bd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arXiv.2212.07519.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d251b2549c925589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2212.07441.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "167b7b2fb5aaee78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2212.06850.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d3e188dd193d7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2212.06203.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41f7297e4b6ce6c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2212.04693.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c5db6838c00bcfbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2210.06731.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e5d5da45f0019a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2212.07675.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c4ecd1290fe7521f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2212.06847.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6cb67c29b23fe9b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arXiv.2210.12336.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8681072b865db6b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
+                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CI and CO in Nearby Spiral Galaxies -- I. Line Ratio and Abundance Variations at ~ 200 pc Scales ",
+                "query": "aura Fernandes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
+                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
+                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md"
+                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md"
               }
             }
           }
@@ -314,17 +198,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8681072b865db6b3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ef9475bb9cb4bd2",
   "lastOpenFiles": [
-    "content/article/A_population_of_faint,_old,_and_massive_quiescent_galaxies_at_3_<_z_<_4_revealed_by_JWST_NIRSpec_Spectroscopy.md",
-    "content/article/A_Photometric_Survey_of_Globular_Cluster_Systems_in_Brightest_Cluster_Galaxies.md",
-    "content/article/The_gas_and_stellar_content_of_a_metal-poor_galaxy_at__z=8.496__revealed_by_JWST_and_ALMA.md",
-    "themes/hugo-theme-flat/exampleSite/content/essays/What-Is-Hugo.md",
-    "content/article/The_miniJPAS_survey:_stellar_atmospheric_parameters_from_56_optical_filters.md",
-    "content/article/The_ALPINE-ALMA_[CII]_survey:_double_stellar_population_and_AGN_activity_in_a_galaxy_at__z_sim5.5_.md",
-    "content/article/Properties_of_Type_Iax_Supernova_2019muj_in_the_Late_Phase:_Existence,_Nature_and_Origin_of_the_Iron-rich_Dense_Core.md",
-    "content/article/JWST_and_ALMA_Multiple-Line_Study_in_and_around_a_Galaxy_at__z=8.496_:_Optical_to_FIR_Line_Ratios_and_the_Onset_of_an_Outflow_Promoting_Ionizing_Photon_Escape.md",
-    "themes/mainroad/exampleSite/content/docs/faq.md",
-    "themes/fuji/exampleSite/content/post/emoji-support.md"
+    "content/article/arXiv.2301.01317.md",
+    "content/article/arXiv.2212.14057.md",
+    "content/article/arXiv.2212.13920.md",
+    "content/article/arXiv.2211.14349.md",
+    "content/article/arXiv.2210.02306.md",
+    "content/article/A_Bayesian_Neural_Network_Approach_to_identify_Stars_and_AGNs_observed_by_XMM_Newton.md",
+    "content/article/A__γ_-ray_emitting_NLS1_galaxy_SDSS_J095909.51+460014.3_identified_by_multiwavelength_flares.md",
+    "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
+    "arXiv.2210.12336.md",
+    "arXiv.2212.06847.md"
   ]
 }

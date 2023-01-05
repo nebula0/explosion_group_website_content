@@ -108,10 +108,10 @@ query_list = [
     "chemical"   
 ]
 
-year_limit = 2022
-month_limit = 12#11
-day_up_limit = 26#18#10#3#25#19#11#28#21
-day_down_limit = 19#10#4#1#12#1#22#14
+year_limit = 2023#2022
+month_limit = 1#12#11
+day_up_limit = 4#31#26#18#10#3#25#19#11#28#21
+day_down_limit = 1#27#19#10#4#1#12#1#22#14
 NOW = time.ctime()
 for query in query_list:
     get_md(query, year_limit, month_limit, day_up_limit, day_down_limit)
@@ -123,7 +123,7 @@ print(f"For this update at {NOW}")
 
 
 # sed -i 's/"most recent update (Sun Dec 4 2022)"/""/g' `ls`
-# find ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/new_article/
+# find ~/Hugo_site/explosion/python_code/new_article/ -type f -print0 | xargs -0 mv -t ~/Hugo_site/explosion/content/article/
 
 # note: l copy newArtile to article, so next week no need co copy, only nedd to detete them
 # in newArticle and replace tag in article.

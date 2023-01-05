@@ -4,7 +4,7 @@ date: "2022-12-22"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Tue Dec 27 2022)"
+  - ""
 categories:
   - supernovae
   - 2022(year)
