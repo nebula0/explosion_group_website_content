@@ -4,7 +4,7 @@ date: "2023-1-1"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Thu Jan 5 2023)"
+  - ""
 categories:
   - supernovae
   - 2023(year)

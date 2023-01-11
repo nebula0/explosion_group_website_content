@@ -65,7 +65,7 @@ def get_md(query: str, year_limit: int, month_limit: int, day_up_limit: int, day
 
             with open(abs_file_path, "w") as f:
                 f.write(
-                    f"---\ntitle: \"{title}\"\ndate: \"{year}-{month}-{day}\"\ntype: article\ntags:\n  - \"arxiv\"\n  - \"{time_tag}\"\ncategories:\n  - {query}\n  - {year}(year)\n  - {month}(month)\ndraft: false\n---\n\n> First author: {result.authors[0]}\n\n {result.summary}\n\n---\n[arxiv link]({result.entry_id})\n\n[pdf link]({result.pdf_url})")
+                    f"---\ntitle: \"{title}\"\ndate: \"{year}-{str(month).zfill(2)}-{str(day).zfill(2)}\"\ntype: article\ntags:\n  - \"arxiv\"\n  - \"{time_tag}\"\ncategories:\n  - {query}\n  - {year}(year)\n  - {month}(month)\ndraft: false\n---\n\n> First author: {result.authors[0]}\n\n {result.summary}\n\n---\n[arxiv link]({result.entry_id})\n\n[pdf link]({result.pdf_url})")
                 f.close()
         else:
             pass
@@ -110,8 +110,8 @@ query_list = [
 
 year_limit = 2023#2022
 month_limit = 1#12#11
-day_up_limit = 4#31#26#18#10#3#25#19#11#28#21
-day_down_limit = 1#27#19#10#4#1#12#1#22#14
+day_up_limit = 10#4#31#26#18#10#3#25#19#11#28#21 most recent update (Thu Jan 5 2023)
+day_down_limit = 5#1#27#19#10#4#1#12#1#22#14 
 NOW = time.ctime()
 for query in query_list:
     get_md(query, year_limit, month_limit, day_up_limit, day_down_limit)

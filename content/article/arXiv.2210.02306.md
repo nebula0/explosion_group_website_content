@@ -4,7 +4,7 @@ date: "2022-12-30"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Thu Jan 5 2023)"
+  - ""
 categories:
   - dwarf galaxy
   - 2022(year)

@@ -4,7 +4,7 @@ date: "2023-1-2"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Thu Jan 5 2023)"
+  - ""
 categories:
   - cosmology
   - 2023(year)

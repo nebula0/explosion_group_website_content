@@ -1,0 +1,22 @@
+---
+title: "The hydrodynamic evolution of binary black holes embedded within the vertically stratified disks of active galactic nuclei"
+date: "2023-01-09"
+type: article
+tags: 
+  - "arxiv"
+  - "most recent update (Wed Jan 11 2023)"
+categories:
+  - galactic disk
+  - 2023(year)
+  - 1(month)
+draft: false
+---
+
+ > Nicholas Kaaz
+ 
+         Stellar-mass black holes can become embedded within the gaseous disks of active galactic nuclei (AGNs). Afterwards, their interactions are mediated by their gaseous surroundings. In this work, we study the evolution of stellar-mass binary black holes (BBHs) embedded within AGN disks using a combination of three-dimensional hydrodynamic simulations and analytic methods, focusing on environments in which the AGN disk scale height $H$ is [arXiv:2301.03629](https://arxiv.org/abs/2301.03629)$\gtrsim$ the BBH sphere of influence. We model the local surroundings of the embedded BBHs using a wind tunnel formalism and characterize different accretion regimes based on the local properties of the disk, which range from wind-dominated to quasi-spherical. We use our simulations to develop prescriptions for mass accretion and drag for embedded BBHs. We use these prescriptions, along with AGN disk models that can represent the Toomre-unstable outer regions of AGN disks, to study the long-term evolution of the BBHs as they migrate through the disk. We find that BBHs typically merge within $\lesssim 5-30\,{\rm Myr}$, increasing their mass significantly in the process, allowing BBHs to enter (or cross) the pair-instability supernova mass gap. The rate at which gas is supplied to these BBHs often exceeds the Eddington limit, sometimes by several orders of magnitude. We conclude that most embedded BBHs will merge before migrating significantly in the disk. Depending on the conditions of the ambient gas and the distance to the system, LISA can detect the transition between the gas-dominated and gravitational wave dominated regime for inspiraling BBHs that are formed sufficiently close to the AGN ($\lesssim$ 0.1 pc). We also discuss possible electromagnetic signatures during and following the inspiral, finding that it is generally unlikely but not inconceivable for the bolometric luminosity of the BBH to exceed that of the host AGN.
+
+---
+
+[arxiv link](https://arxiv.org/abs/2103.12088)  
+[pdf link](https://arxiv.org/pdf/2103.12088)

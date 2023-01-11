@@ -4,7 +4,7 @@ date: "2023-1-4"
 type: article
 tags:
   - "arxiv"
-  - "most recent update (Thu Jan 5 2023)"
+  - ""
 categories:
   - galaxies
   - 2023(year)

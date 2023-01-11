@@ -13,74 +13,134 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/A_Bayesian_Neural_Network_Approach_to_identify_Stars_and_AGNs_observed_by_XMM_Newton.md",
+                "file": "content/article/Simulations_of_high-redshift_[OIII]_emitters:_Chemical_evolution_and_multi-line_diagnostics.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "fa2575589fb98ae2",
+            "id": "d62f8ef2918cec51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/arXiv.2212.13920.md",
+                "file": "content/article/arXiv.2301.02622.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e7993bcb2210f838",
+            "id": "fa32e264da762206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/arXiv.2301.01317.md",
+                "file": "content/article/arXiv.2301.02676.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4293dd923b9a5557",
+            "id": "017158aa97fe7079",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/arXiv.2212.14057.md",
+                "file": "content/article/arXiv.2301.03721.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "cb12db2f28ced9b3",
+            "id": "602a1746be47cd45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/arXiv.2211.14349.md",
+                "file": "content/article/arXiv.2212.07441.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "3ef9475bb9cb4bd2",
+            "id": "faa37a491c91ebd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md",
+                "file": "content/article/arXiv.2301.02416.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1eb588d261e33adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/article/arXiv.2301.02257.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "47ebd83540b65936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/article/arXiv.2103.12088.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cf9af3eff386150d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/article/arXiv.2301.03629.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "74e75ed498d3ac56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/article/arXiv.2301.02292.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b49746bc41e83a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/article/Untitled 1.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -109,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aura Fernandes",
+                "query": "emitters: Chemical evolution and multi-line diagnostics ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md",
+                "file": "content/article/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md",
+                "file": "content/article/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/article/A_Comparative_Analysis_of_the_Chemical_Compositions_of_Gaia-Enceladus_Sausage_and_Milky_Way_Satellites_using_APOGEE.md"
+                "file": "content/article/Untitled 1.md"
               }
             }
           }
@@ -208,17 +268,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ef9475bb9cb4bd2",
+  "active": "b49746bc41e83a27",
   "lastOpenFiles": [
-    "content/article/arXiv.2301.01317.md",
-    "content/article/arXiv.2212.14057.md",
-    "content/article/arXiv.2212.13920.md",
-    "content/article/arXiv.2211.14349.md",
-    "content/article/arXiv.2210.02306.md",
-    "content/article/A_Bayesian_Neural_Network_Approach_to_identify_Stars_and_AGNs_observed_by_XMM_Newton.md",
-    "content/article/A__γ_-ray_emitting_NLS1_galaxy_SDSS_J095909.51+460014.3_identified_by_multiwavelength_flares.md",
-    "content/article/CI_and_CO_in_Nearby_Spiral_Galaxies_--_I._Line_Ratio_and_Abundance_Variations_at_~_200_pc_Scales.md",
-    "arXiv.2210.12336.md",
-    "arXiv.2212.06847.md"
+    "content/article/arXiv.2301.02292.md",
+    "content/article/arXiv.2301.03629.md",
+    "content/article/arXiv.2103.12088.md",
+    "content/article/arXiv.2301.02257.md",
+    "content/article/arXiv.2301.02416.md",
+    "content/article/arXiv.2212.07441.md",
+    "content/article/Simulations_of_high-redshift_[OIII]_emitters:_Chemical_evolution_and_multi-line_diagnostics.md",
+    "content/article/arXiv.2301.02622.md",
+    "content/article/arXiv.2301.02676.md",
+    "content/article/arXiv.2301.03721.md"
   ]
 }
